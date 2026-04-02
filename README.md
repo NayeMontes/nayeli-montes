@@ -4,7 +4,7 @@
 
 Frontend-Focused Software Engineer | JavaScript | React (Learning) | UI Development
 
-🚀 About Me
+🚀 ##About Me
 
 Software Engineer with 3+ years of experience working in enterprise environments like Intel and Tata Consultancy Services.
 
