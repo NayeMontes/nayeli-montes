@@ -27,6 +27,7 @@ Databases:
 MySQL · Oracle · Firebase
 
 🌟 Featured Projects
+
 🔹 Pokédex Web App
 
 📌 JavaScript · HTML5 · CSS3 · REST API
