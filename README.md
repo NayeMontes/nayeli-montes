@@ -6,7 +6,7 @@
 
 # **🚀 About Me**
 
-Software Engineer with 3+ years of experience working in enterprise environments like Intel and Tata Consultancy Services.
+Software Engineer with 4+ years of experience working in enterprise environments like Intel and Tata Consultancy Services.
 
 I specialize in building scalable software solutions and I’m currently focusing on Frontend Development, creating responsive and user-friendly web applications using modern JavaScript and UI practices.
 
