@@ -24,7 +24,7 @@ Python · Java · C# · PL/SQL
 GitHub · GitLab · Jira · CI/CD · Agile
 
 **Databases:**
-MySQL · Oracle · Firebase
+MySQL · Oracle · Firebase . SQL
 
 # 🌟 Featured Projects
 
