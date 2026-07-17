@@ -28,6 +28,14 @@ MySQL · Oracle · Firebase
 
 # 🌟 Featured Projects
 
+# 🔹 Book market
+
+📌 Flask · SQLAlchemy · Bootstrap · SQLite
+
+- Web page to discover and download free computer science, software engineering, programming books and others.
+
+  👉 [Visit Website](https://bookmarket-naye-hvnb.onrender.com/)
+
 # 🔹 Pokédex Web App
 
 📌 JavaScript · HTML5 · CSS3 · REST API
@@ -50,7 +58,7 @@ MySQL · Oracle · Firebase
 👉 
 
 # 📈 What I’m Currently Working On
-- Learning React (Web) and modern frontend architecture
+- Learning modern frontend architecture
 - Improving skills in UI/UX and responsive design
 - Building new projects to strengthen my frontend portfolio
   
