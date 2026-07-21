@@ -45,7 +45,7 @@ MySQL · Oracle · Firebase . SQL
 - Used local storage to persist user data
 - Designed a responsive UI for different screen sizes
 
-👉 [Visit Website](https://nayemontes.github.io/NayePokedex/)
+  👉 [Visit Website](https://nayemontes.github.io/NayePokedex/)
 
 # 🔹 JummNutry – Mobile App
 
