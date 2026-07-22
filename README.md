@@ -55,7 +55,7 @@ MySQL · Oracle · Firebase . SQL
 - Built reusable UI components and handled user interaction flows
 - Integrated Firebase for real-time data handling
 
-👉 
+👉 [Visit Repository](https://github.com/NayeMontes/App-JummNutriNutri-Nayeli)
 
 # 📈 What I’m Currently Working On
 - Learning modern frontend architecture
