@@ -38,7 +38,7 @@ MySQL · Oracle · Firebase . SQL
 
 # 🔹 Pokédex Web App
 
-📌 JavaScript · HTML5 · CSS3 · REST API
+📌 JavaScript · HTML5 · CSS3 · REST API . PHP
 
 - Built a dynamic web application consuming data from an external API (PokéAPI)
 - Implemented infinite scroll for seamless browsing
